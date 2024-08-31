@@ -1,4 +1,4 @@
-📤how to upload-file in django📤<br>
+# 📤how to upload-file in django📤<br>
 1- pip install pillow<br>
 2- define static and media in settings
 ```python
